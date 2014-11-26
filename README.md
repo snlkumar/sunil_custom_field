@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+require "sunil_custom_field"
+field=SunilCustomField.new("User","feb","string")
+
 
 ## Contributing
 
