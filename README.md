@@ -20,8 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-    require "sunil_custom_field"
-    SunilCustomField.new("User","feb","string")
+    require "sunil_custom_field" 
+
+    field=SunilCustomField.new("User","feb","string")
 
 ## Contributing
 
