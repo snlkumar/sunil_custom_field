@@ -1,4 +1,5 @@
 require 'active_support/core_ext/string'
+require 'sunil_custom_field/version'
 require 'rake'
 class SunilCustomField
    def initialize(model,field_name,field_type)
